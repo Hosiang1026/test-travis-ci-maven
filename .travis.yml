@@ -31,4 +31,4 @@ notifications:
   
 env:
   global:
-  - GH_REF=github.com/lifengsofts/lifengsofts.github.io.git
+  - GH_REF=github.com/zheng-zy/test-travis-ci-maven.git
