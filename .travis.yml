@@ -19,7 +19,7 @@ after_success:
   - git config user.name "Hosiang1026"
   - git config user.email "hosiang969@sina.com"
   - git add spring-boot-jsp.war
-  - git commit -m "version 1"
+  - git commit -m "version 1.0.0"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
 
 branches:
